@@ -1,5 +1,6 @@
 # VERITAS
 A cybersecurity extension that prevents unintended visits to harmful malicious sites and stops deceptive forms from accessing your sensitive data
+
 Steps to dwnload the extension :-
 1) Extract the zip file.
 2) Open your respective browser extensions and turn on the developer mode.
