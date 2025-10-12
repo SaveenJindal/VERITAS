@@ -7,6 +7,6 @@ Steps to dwnload the extension :-
 3) Click on Load Unpacked and select the extracted folder.
 4) The extension is activated
 
-The activated extension blocks malicious sites thay may harm your system and also prevents sensitive data submissions on sites that are transmitting it to malicious sites
+The activated extension blocks malicious sites that may harm your system and also prevents sensitive data submissions on sites that are transmitting it to an external non legtimate domain.
 
 For external users, the website link for VERITAS extension zip file and instructions :- https://errorr404notfound.wordpress.com/
